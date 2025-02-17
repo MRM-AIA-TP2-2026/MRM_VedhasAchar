@@ -1,7 +1,7 @@
 # Task_4_5
 
 ## bash
-'''
+```
 git branch
 git checkout -b Temp
 nano Task_3.md
@@ -18,7 +18,7 @@ nano Task_4_5
 git add Task_4_5.md
 git commit -m "Added README file for 4 and 5"
 git push origin master
-'''
+```
 
 ## Procedure
 
