@@ -19,3 +19,6 @@ then when i typed anything on any of the terminals, it showed on other terminals
 
 ## RQT Graph:
 ![image](https://github.com/user-attachments/assets/6e522be0-1acf-41a2-8eca-3d358b9f9264)
+
+## Youtube video Link:
+https://youtu.be/dMDaChVph-8
